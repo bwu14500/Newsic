@@ -19,6 +19,7 @@ Run SQL script
 Refresh the schemas on the right side of the screen and you will notice new schemas and tables
 
 Right click on the project and click properties:
+
   a. Go to Server -> select tomcat v9 -> apply and close 
   
   b. Go back to the project properties 
